@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: No-SQL Database Tutorials
 image: /img/wp2347548.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
